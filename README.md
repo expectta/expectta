@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning JavsScript
 - 💬 Ask me about anything
 <im src = "https://img.shields.io/github/followers/expectta?style=social">
+![](https://img.shields.io/github/followers/expectta?style=social)
 
