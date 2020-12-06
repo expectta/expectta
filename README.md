@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </div>
-
+<p></P>
 
 ![expectta's github stats](https://github-readme-stats.vercel.app/api?username=expectta&show_icons=true&theme=gruvbox)
 <!--https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-->
